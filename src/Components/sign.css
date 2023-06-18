@@ -1,0 +1,16 @@
+.sign {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    height: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    background-image: url("./Image\ \(6\).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+  }

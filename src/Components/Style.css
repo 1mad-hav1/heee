@@ -1,0 +1,14 @@
+.rainbow {
+    background-image: linear-gradient(45deg, #f3e7e9, #7d03ef, #b77fa0, #09f9a1, #0ef1f9, #94de0c, #ef37a6, #1408fc, #d6b2c6, #f3e7e9);
+    background-size: 200% 200%;
+    animation: rainbowGradient 5s linear infinite;
+  }
+  
+  @keyframes rainbowGradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+  }

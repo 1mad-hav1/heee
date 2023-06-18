@@ -1,0 +1,30 @@
+.log {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    background-image: url("./Image\ \(3\).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  h2 {
+    display: block;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size:xx-large;
+    align-items: center;
+  }
+  h1{
+    display: block;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size:42px;
+    align-items: center;
+    color:white;
+  }

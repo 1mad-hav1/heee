@@ -1,0 +1,46 @@
+.Log {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    background-image: url("./im");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  h2 {
+    display: block;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size:xx-large;
+    align-items: center;
+  }
+  h1{
+    display: block;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size:42px;
+    align-items: center;
+    color:white;
+  }
+  .sign {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    height: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    background-image: url("C:\Users\Admin\Downloads\digital-art-men-city-futuristic-night-hd-wallpaper-preview.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+  }
